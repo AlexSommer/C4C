@@ -1,0 +1,84 @@
+BRAINSTORM FOR CRUE APP
+9/2/15
+
+Key qualities: non-invasive, fun, minimalist (huge release importance, perhaps even hold back features for next release cycle...) 
+
+
+TODO:
+	-Talk to ConsentED/Cornell officials about focus group
+		What issues occur?
+		How do you address them? What has worked and not worked?
+	-Filing for LLC for Crue
+	-Cornell Shark Tank / Colgate Shark Tank
+	-How do we know when a conversation/action goes from consentual and happy to non-consentual and sexual assault?
+	-Are there tell-tale signs throughout the night in an interaction that made the person wary of assault or sketchy behavior before it happened?
+		For instance, if a man/woman seems very drunk, does this statistically increase the chances of rape?
+	-
+
+Technical/Legal feasibility:
+	-Knock Knock app phone vibration detection (for checking in feature?)
+	-Checking in for user involvement for iOS (using Snapchat, Messages, etc...)
+
+Fun Features:
+-Planning who to go out with
+-Meeting and adding new people dynamically (knock-knock feature, keep phone in pocket and knock twice)
+-Losing people at the party
+-Individual wants to leave the party
+-Polls (where to next, group voting like FB poll)
+	Permits people who didn't check their phone to know where others went and not feel left out
+	People can vote and then see which friends they want to go with if they don't want to go somewhere with the rest of the group
+	GPS can track where the people went
+	Aggregate the polling + GPS to verify exactly where people are
+		What if Bob said he is going to place A and then GPS sees he is at place D, can the app check with Bob to make sure he did this voluntarily?
+	False positive case: you said you were going to place A and then met your crush along the way and decided to diverge from your path and are ALSO not answering your phone. Could you just knock on your phone with a characteristic 
+-Phone activity
+	
+
+-How do we alert someone:
+	Vibration and checkin with knocking
+	
+-How do we deal with privacy?
+	Do we let anybody in the app track someone else?
+	Do we let people turn off their tracking? How do we balance someone 	
+	*How do we balance giving people their privacy but still keeping track of them and protecting them from danger?
+	Do we only let the app have the data about locations and encapsulate that information in its entirety? Maybe it only reveals the information in danger situations?
+
+-How drunk are you check in?
+	Maybe the data is held only from the app
+	Fun? way to check in but actually get legitimate information on lucidity
+-Group management
+	Tracking GPS
+	Phone activity (using other apps)
+	Low battery alert to other people
+	Group alert message
+	Override sound settings / vibration?
+	Fluid and non-invasive
+-"Getting laid" button
+
+-How safe do you feel rating if you diverge from the path (would have to think what trigger this would be)?
+	Then would be able to respond differently or check in differently
+	
+
+Safety Features:
+-Location tracking with GPS
+-*Fake call
+	Fake call from the app that gives the person the opportunity to step away if they are liminally on the consentual/non-consentual side
+	Helps get away from someone who is being creepy (safety side)
+	Helps someone stop a conversation with someone boring, strange, or annoying (fun side)
+-Quick, non-invasive check in
+
+CAITLIN/LIZ IDEAS:
+-The groupwide serious alert (like an Amber Alert)
+-Let other people intervene and don't make a computer/algorithm determine whether someone is in danger
+
+
+9/12/15 Brainstorm
+-Jack Dent idea on recording when walking home at night?
+	Is this feasible (drain on battery life)?
+	Is this actually helpful from a data/ConsentED perspective? Does it do anything useful or is it a useless feature that will have no add-value?
+-
+
+
+
+
+
